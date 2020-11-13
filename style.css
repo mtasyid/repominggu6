@@ -1,0 +1,45 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.tentang{
+    color: rgb(17, 221, 34);
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.asd{
+    color: rgb(54, 17, 221);
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.h1{
+    color: #ce0fe7;
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.color{
+    color: rgb(41, 156, 223);
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.q{
+    color: #f30000;
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.p{
+    color: #f5f3f3;
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
